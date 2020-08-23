@@ -1,8 +1,8 @@
-h1. pwh
+# pwh
 
 Password hiding tool
 
-h3. Ever wanted to stop leaking passwords while sharing your scree?
+### Ever wanted to stop leaking passwords while sharing your scree?
 
 I have, many times.
 
