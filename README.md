@@ -2,7 +2,7 @@
 
 Password hiding tool
 
-### Ever wanted to stop leaking passwords while sharing your scree?
+### Ever wanted to stop leaking passwords while sharing your screen?
 
 I have, many times.
 
