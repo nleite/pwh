@@ -1,0 +1,15 @@
+postgres://some:password@host:port/db?someparas=1111
+
+password: 12345
+SOME_PASS: paaa
+
+someo.other.pass = 1123131
+
+
+some:
+  yaml:
+    structure: that 
+    defines: data
+    and: aaaaaannnnddddd
+    passwords: 11234
+    
