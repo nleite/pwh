@@ -7,7 +7,7 @@ Password hiding tool
 I have, many times.
 
 ```
-cat some_file_with_passwords  2>&1 | pwh 
+cat data.txt | pwh 
 command_that_leasks_passwords 2>&1 | pwh
 ```
 
