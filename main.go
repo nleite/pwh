@@ -13,7 +13,9 @@ func main() {
 		panic(err)
 	}
 	if info.Mode()&os.ModeCharDevice != 0 || info.Size() <= 0 {
-		fmt.Println("not using pipe")
+		fmt.Println(`pipe me some text
+	command | pwh 
+for more info - https://github.com/nleite/pwh#usage`)
 		return
 	}
 
